@@ -8,7 +8,7 @@ I'm an engineering student at **Polytech Montpellier**, passionate about **softw
 - 🎓 **Education:** Engineering in Computer Science & Management at **Polytech Montpellier**  
 - 💼 **Internships & Projects:**  
   - Developed a **web app for production & stock management** using **Angular & Express.js**  
-  - Built an **HR automation system** with **Microsoft Power Apps & Dataverse**  
+  - Built an **HR automation system** with **Microsoft Power Apps, Power Automate & Dataverse**  
   - Designed a **user information platform** using **Angular & ASP.NET Core**  
 
 ## 🛠 Tech Stack  
