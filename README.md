@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Malek Jamel!  
+# 👋 Hi, I'm Malek !  
 
 💻 **Engineering Student | Software Developer | Tech Enthusiast**  
 
