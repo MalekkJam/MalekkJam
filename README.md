@@ -13,7 +13,7 @@ I'm an engineering student at **Polytech Montpellier**, passionate about **softw
 
 ## 🛠 Tech Stack  
 - **Languages:** Swift, Python, C, JavaScript, Java, PHP  
-- **Web & Backend:** Angular, Express.js, MongoDB, SQL, PL/SQL
+- **Web & Backend:** Angular, Deno, VueJS, Express.js, MongoDB, SQL, PL/SQL
 - **Tools & Platforms:** Power Apps, Microsoft Azure, Power BI,  WordPress  
 
 ## 🌍 Let's Connect!  
