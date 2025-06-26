@@ -1,23 +1,51 @@
-# 👋 Hi, I'm Malek !  
+# 👋 Hi, I'm Malek
 
-💻 **Engineering Student | Software Developer | Tech Enthusiast**  
+### 🧭 Profile Summary  
+Engineering student at Polytech Montpellier with a strong interest in software systems, embedded technologies, and scalable architectures. I combine hands-on experience in development with solid leadership skills, gained through my involvement in the Junior Enterprises movement. Focused, curious, and committed to building reliable solutions—always open to learning and contributing to impactful, well-engineered projects.
 
-I'm an engineering student at **Polytech Montpellier**, passionate about **software development, system design, and automation**. I love building efficient, scalable solutions and exploring new technologies.  
+---
 
-## 🚀 About Me  
-- 🎓 **Education:** Engineering in Computer Science & Management at **Polytech Montpellier**  
-- 💼 **Internships:**  
-  - Developed a **web app for production & stock management** using **Angular & Express.js**  
-  - Built an **HR automation system** with **Microsoft Power Apps, Power Automate & Dataverse**  
-  - Designed a **user information platform** using **Angular & ASP.NET Core**  
+### 💼 Experience Highlights
 
-## 🛠 Tech Stack  
-- **Languages:** Swift, Python, C, JavaScript, Java, PHP  
-- **Web & Backend:** Angular, Deno, VueJS, Express.js, MongoDB, SQL, PL/SQL
-- **Tools & Platforms:** Power Apps, Microsoft Azure, Power BI,  WordPress  
+- **Systems Development**  
+  Participated in an internship focused on **ION/uD3TN**, implementing DTN protocols in constrained environments using **C** and **Rust**.
 
-## 🌍 Let's Connect!  
-- ✉️ **Email:** malekjamel007@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/malek-jamel](https://www.linkedin.com/in/malek-jamel)  
+- **Full-Stack Web Development**  
+  Built production-grade tools for stock management and human resources using **Angular**, **Vue.js**, **Express.js**, and **Power Platform**.
 
-🚀 Always open to collaborating on exciting projects and discussing innovative ideas!  
+- **Process Automation**  
+  Developed internal platforms and workflow automations using **Microsoft Power Apps**, **Power Automate**, **Power BI**, and **Dataverse**.
+
+
+---
+
+### 🛠️ Technical Proficiencies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="VueJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="ExpressJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40" alt="PowerShell"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40" alt="Power BI"/>
+</p>
+
+---
+
+### 📌 Currently Exploring
+
+- Embedded systems & real-time OS fundamentals  
+- Communication protocols & low-level networking (e.g., DTN)  
+- Advanced backend design & distributed architectures  
+
+---
+
+Feel free to check out my repositories or reach out through LinkedIn to collaborate on technical or strategic initiatives.
