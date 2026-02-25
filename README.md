@@ -1,21 +1,7 @@
 # 👋 Hi, I'm Malek
 
 ### 🧭 Profile Summary  
-Engineering student at Polytech Montpellier with a strong interest in software systems, embedded technologies, and scalable architectures. I combine hands-on experience in development with solid leadership skills, gained through my involvement in the Junior Enterprises movement. Focused, curious, and committed to building reliable solutions—always open to learning and contributing to impactful, well-engineered projects.
-
----
-
-### 💼 Experience Highlights
-
-- **Systems Development**  
-  Participated in an internship focused on **ION/uD3TN**, implementing DTN protocols in constrained environments using **C** and **Rust**.
-
-- **Full-Stack Web Development**  
-  Built production-grade tools for stock management and human resources using **Angular**, **Vue.js**, **Express.js**, and **Power Platform**.
-
-- **Process Automation**  
-  Developed internal platforms and workflow automations using **Microsoft Power Apps**, **Power Automate**, **Power BI**, and **Dataverse**.
-
+Engineering student at Polytech Montpellier specializing in software systems and scalable architectures, with a strong interest in aerospace systems and space technologies. Experience in full-stack development, low-level programming, Linux systems, distributed systems, and software architecture design.
 
 ---
 
