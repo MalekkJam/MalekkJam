@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Malek
 
-### 🧭 Profile Summary  
 Engineering student at Polytech Montpellier specializing in software systems and scalable architectures, with a strong interest in aerospace systems and space technologies. Experience in full-stack development, low-level programming, Linux systems, distributed systems, and software architecture design.
 
 ---
